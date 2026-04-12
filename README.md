@@ -1,3 +1,15 @@
+<details>
+  <summary>📂 Click to view my projects</summary>
+
+  <br>
+
+  - Epic Games Web Testing  
+  - API Testing (Swagger Petstore)  
+  - HR System Testing  
+
+</details>
+
+---
 <h1 align="center">Hi there 👋 I'm Lotfy Galal 🧪</h1>
 
 <p align="center">
@@ -9,18 +21,12 @@ Experienced in testing environments and collaborative Agile workflows. Ready to 
 </p>
 
 <p align="center">
-  <a href="http://www.linkedin.com/in/lotfy-galal-b8136015">
+  <a href = "https://www.linkedin.com/in/lotfy-galal-b8136015a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge">
   </a>
   <a href="mailto:lotfy.galal2@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge">
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QA0zH4vR7X0c/giphy.gif" width="200">
 </p>
 
 ---
