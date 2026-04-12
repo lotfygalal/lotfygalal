@@ -1,16 +1,4 @@
-<details>
-  <summary>📂 Click to view my projects</summary>
-
-  <br>
-
-  - Epic Games Web Testing  
-  - API Testing (Swagger Petstore)  
-  - HR System Testing  
-
-</details>
-
----
-<h1 align="center">Hi there 👋 I'm Lotfy Galal 🧪</h1>
+<h1 align="center">Hi 👋 I'm Eng/ Lotfy Galal 🧪</h1>
 
 <p align="center">
   Software Testing Engineer with years of experience in testing web and mobile applications on Android and IOS 
@@ -21,12 +9,49 @@ Experienced in testing environments and collaborative Agile workflows. Ready to 
 </p>
 
 <p align="center">
-  <a href = "https://www.linkedin.com/in/lotfy-galal-b8136015a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge">
-  </a>
-  <a href="mailto:lotfy.galal2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge">
-  </a>
+  Personal portfolio showcasing my work, skills, and experience as a <b>Software Testing Engineer</b>.
+</p>
+
+<p align="center">
+  🌐 <a href="https://lotfygalal.github.io" target="_blank"><b>MY Portfolio WEB</b></a>
+</p>
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Manual%20Testing-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Automation%20Testing-6A1B9A?style=for-the-badge">
+  <img src="https://img.shields.io/badge/API%20Testing-FF6F00?style=for-the-badge&logo=postman&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white">
+  <img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white">
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Zephyr-20C997?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Postman-FF6F00?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
+  <img src="https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge">
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Comet-FF8C00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Antigravity-8E44AD?style=for-the-badge">
+</p>
+
+---
+
+## 📸 Preview
+<p align="center">
+  <img src="assets/portfolio-preview.png" alt="Portfolio Preview" width="800">
 </p>
 
 ---
