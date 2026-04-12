@@ -1,14 +1,18 @@
 <h1 align="center">Hi there 👋 I'm Lotfy Galal 🧪</h1>
 
 <p align="center">
-  Software Testing Engineer passionate about quality, automation, and real-world testing.
+  Software Testing Engineer with years of experience in testing web and mobile applications on Android and IOS 
+platforms. Specialized in Manual and Automation Testing using Selenium, Maven, TestNG, and POM design pattern. 
+Strong experience in API testing with Postman and test management using Jira, Asana, and Slack. Proven ability to 
+design test scenarios, execute test cases, report defects, and ensure product quality across real-world projects. 
+Experienced in testing environments and collaborative Agile workflows. Ready to relocate and start immediately. 
 </p>
 
 <p align="center">
-  <a href="http://www.linkedin.com/in/lotfy-gal-b8136015a">
+  <a href="http://www.linkedin.com/in/lotfy-galal-b8136015">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge">
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:lotfy.galal2@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge">
   </a>
 </p>
