@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 I'm Eng/ Lotfy Galal </h1>
-<p align="center">
-  <img src = "/portfolio-preview.png" alt="Portfolio Preview" width="800">
 </p>
 <p align="center">
   🌐 <a href="https://lotfygalal.github.io" target="_blank"><b>MY Portfolio WEB</b></a>
 </p>
-
+<p align="center">
+  <img src = "/portfolio-preview.png" alt="Portfolio Preview" width="800">
+  
 ---
 
 <p align="center">
