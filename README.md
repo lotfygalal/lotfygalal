@@ -4,7 +4,7 @@
   🌐 <a href="https://lotfygalal.github.io" target="_blank"><b>MY Portfolio Link</b></a>
 </p>
 <p align="center">
-  <img src = "/portfolio-preview.png" alt="Portfolio Preview" width="800">
+  <img src = "/portfolio.png" alt="Portfolio Preview" width="800">
 
   
 ---
