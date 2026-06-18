@@ -5,6 +5,7 @@
 </p>
 <p align="center">
   <img src = "/portfolio-preview.png" alt="Portfolio Preview" width="800">
+
   
 ---
 
